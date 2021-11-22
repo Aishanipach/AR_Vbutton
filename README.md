@@ -1,5 +1,5 @@
 # AR Vbutton 🖲
-### An augmented reality 3-D cube made to rotate in space using a button which triggers when it senses a hand over it. 
+### An augmented reality 3-D cube made to rotate in space using a button which triggers by detecting a hand over that is hovering over  it. 
 
 `Unity (2019.4.2f1)`  `Vuforia (8.1 Patch)`
 
